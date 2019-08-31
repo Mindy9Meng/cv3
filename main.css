@@ -160,4 +160,28 @@ section.message > ol > li {
   padding: 16px;
   border-bottom: 1px solid #DDD;
 }
+section.message>form>.name,.leavemessage{
+    font-size: 15px;
+    font-weight: 500;
+}
+
+section.message>form>.sendmessage{
+    font-size: 14px;
+    font-weight: 700;
+    font-family: Open Sans,sans-serif;
+    line-height: 1.1;
+    letter-spacing: .03em;
+    text-align: center;
+    text-transform: uppercase;
+    vertical-align: middle;
+    display: inline-block;
+    padding: 8px 15px;
+    margin: 0;
+    border: none;
+    background-image: none;
+    background: #e6686a;
+    border-radius: 5px;
+    color: #fff;
+    margin-left: 20px;
+}
 
